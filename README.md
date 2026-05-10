@@ -92,7 +92,6 @@ php artisan serve
 ## Installation Frontend (`front/`)
 
 ```bash
-cd "C:\Users\ASUS\Desktop\projet web dynamique\front"
 
 # Installer les dépendances
 npm install
@@ -110,13 +109,11 @@ Chaque fois que vous voulez utiliser l'application, ouvrez **2 terminaux** :
 
 **Terminal 1 — Backend**
 ```bash
-cd "C:\Users\ASUS\Desktop\projet web dynamique\back"
 php artisan serve
 ```
 
 **Terminal 2 — Frontend**
 ```bash
-cd "C:\Users\ASUS\Desktop\projet web dynamique\front"
 npm run dev
 ```
 
